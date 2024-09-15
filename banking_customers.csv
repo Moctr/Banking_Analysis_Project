@@ -1,0 +1,501 @@
+Customer_ID,Customer_Name,Gender,DOB,City
+1001,Jane Smith,Male,1980-09-12,Phoenix
+1002,Michael Johnson,Male,1972-03-18,New York
+1003,John Doe,Male,1992-12-09,Houston
+1004,Chris Lee,Male,1983-03-21,Houston
+1005,Chris Lee,Female,1982-05-22,Chicago
+1006,Michael Johnson,Male,1996-01-04,New York
+1007,Jane Smith,Female,1976-04-03,Los Angeles
+1008,John Doe,Female,1984-07-19,Chicago
+1009,Jane Smith,Male,1972-01-28,Houston
+1010,Jane Smith,Male,1983-05-20,New York
+1011,John Doe,Female,1980-07-21,Phoenix
+1012,John Doe,Female,1998-06-21,Los Angeles
+1013,Chris Lee,Male,1979-09-29,Houston
+1014,Chris Lee,Male,1996-10-03,Chicago
+1015,John Doe,Male,1972-08-19,New York
+1016,Emily Davis,Female,1980-07-14,Los Angeles
+1017,Chris Lee,Female,1988-06-01,New York
+1018,Emily Davis,Male,1979-10-16,Phoenix
+1019,John Doe,Female,1994-10-29,Chicago
+1020,Chris Lee,Female,1976-08-15,New York
+1021,Jane Smith,Male,1981-06-30,Houston
+1022,John Doe,Male,1972-09-28,Chicago
+1023,Michael Johnson,Female,1984-05-11,Houston
+1024,Emily Davis,Female,1989-06-29,New York
+1025,John Doe,Male,1981-02-18,Chicago
+1026,John Doe,Male,1977-10-16,Houston
+1027,Chris Lee,Male,1996-06-26,Phoenix
+1028,Chris Lee,Male,1994-03-25,Phoenix
+1029,Chris Lee,Male,1984-07-22,New York
+1030,Michael Johnson,Female,2000-01-16,Chicago
+1031,Chris Lee,Female,1971-02-27,Los Angeles
+1032,John Doe,Female,1988-05-21,Chicago
+1033,Chris Lee,Female,1981-09-06,Phoenix
+1034,Jane Smith,Male,1990-09-02,Houston
+1035,Chris Lee,Male,1987-04-18,Los Angeles
+1036,Michael Johnson,Male,1977-06-03,New York
+1037,Jane Smith,Female,1993-09-01,Los Angeles
+1038,John Doe,Female,1998-12-29,New York
+1039,John Doe,Female,1992-02-04,Los Angeles
+1040,Emily Davis,Male,1997-11-02,New York
+1041,Jane Smith,Female,1974-07-16,New York
+1042,Emily Davis,Male,1976-12-16,Los Angeles
+1043,Jane Smith,Male,1988-07-08,Los Angeles
+1044,Jane Smith,Male,1978-06-03,New York
+1045,Michael Johnson,Male,1978-08-31,Phoenix
+1046,Emily Davis,Male,2000-07-20,Los Angeles
+1047,Michael Johnson,Male,1975-08-16,Chicago
+1048,Jane Smith,Female,1993-03-20,Houston
+1049,John Doe,Male,1985-09-16,New York
+1050,Jane Smith,Male,1978-10-23,New York
+1051,Michael Johnson,Female,1973-12-18,Houston
+1052,Emily Davis,Male,1986-06-15,Phoenix
+1053,Emily Davis,Female,1971-08-31,Houston
+1054,Michael Johnson,Female,1982-06-19,Los Angeles
+1055,Emily Davis,Female,1974-10-31,Houston
+1056,Chris Lee,Male,1995-10-14,New York
+1057,John Doe,Male,1995-10-24,Houston
+1058,John Doe,Female,1995-04-01,Chicago
+1059,John Doe,Male,1977-04-25,Los Angeles
+1060,Emily Davis,Male,1987-11-07,Houston
+1061,Emily Davis,Female,1980-11-06,New York
+1062,Jane Smith,Female,1978-09-13,Los Angeles
+1063,Jane Smith,Male,1980-03-11,New York
+1064,John Doe,Female,1983-06-08,Phoenix
+1065,Chris Lee,Female,1989-11-20,Chicago
+1066,Jane Smith,Female,1983-11-03,Phoenix
+1067,Jane Smith,Male,1996-06-20,Chicago
+1068,Emily Davis,Male,2000-05-11,Houston
+1069,Chris Lee,Male,1972-03-19,Los Angeles
+1070,John Doe,Female,1995-02-09,Houston
+1071,Jane Smith,Male,1999-03-05,Chicago
+1072,Chris Lee,Female,1971-12-27,Chicago
+1073,Chris Lee,Male,1999-04-12,Chicago
+1074,John Doe,Male,1991-02-01,New York
+1075,Chris Lee,Female,1973-05-01,Los Angeles
+1076,Chris Lee,Male,1981-02-03,Houston
+1077,Chris Lee,Female,1976-01-07,Houston
+1078,Jane Smith,Male,1977-09-07,Phoenix
+1079,John Doe,Male,1994-07-24,Chicago
+1080,Chris Lee,Female,1972-08-30,Chicago
+1081,Chris Lee,Female,2000-02-15,Chicago
+1082,Jane Smith,Female,1985-06-05,Houston
+1083,John Doe,Male,1990-06-28,Phoenix
+1084,Emily Davis,Male,1975-10-25,New York
+1085,Jane Smith,Male,1994-01-25,Los Angeles
+1086,John Doe,Female,1970-08-13,New York
+1087,Chris Lee,Female,1994-09-24,Houston
+1088,John Doe,Female,1974-12-20,Chicago
+1089,John Doe,Male,1973-01-11,Los Angeles
+1090,John Doe,Male,1970-05-05,Houston
+1091,Emily Davis,Female,1978-11-21,Houston
+1092,John Doe,Male,1978-01-10,Houston
+1093,Emily Davis,Female,1978-02-19,Los Angeles
+1094,Chris Lee,Male,1975-07-11,Los Angeles
+1095,Emily Davis,Male,1990-04-21,Phoenix
+1096,Chris Lee,Female,1976-08-12,Phoenix
+1097,Chris Lee,Male,1978-06-24,New York
+1098,Emily Davis,Male,1974-05-29,Los Angeles
+1099,Jane Smith,Female,1971-12-19,Los Angeles
+1100,Michael Johnson,Female,1979-10-02,Los Angeles
+1101,John Doe,Male,1995-03-19,Phoenix
+1102,Michael Johnson,Female,1988-07-27,Houston
+1103,John Doe,Male,1997-10-18,Chicago
+1104,John Doe,Female,1972-11-14,Phoenix
+1105,Chris Lee,Male,1996-02-23,Los Angeles
+1106,John Doe,Male,1992-09-29,Phoenix
+1107,John Doe,Female,1998-03-02,New York
+1108,Emily Davis,Male,1991-08-24,Los Angeles
+1109,Michael Johnson,Male,1997-05-12,New York
+1110,Emily Davis,Female,1998-04-22,Los Angeles
+1111,John Doe,Female,1985-04-10,Phoenix
+1112,Chris Lee,Male,1974-06-09,Houston
+1113,Emily Davis,Female,1987-12-06,Chicago
+1114,Emily Davis,Female,1990-03-18,New York
+1115,Jane Smith,Male,1983-02-02,Phoenix
+1116,John Doe,Male,2000-07-04,Houston
+1117,Chris Lee,Female,1980-05-20,Phoenix
+1118,Emily Davis,Female,1978-01-20,New York
+1119,Emily Davis,Female,1985-08-05,Chicago
+1120,Chris Lee,Male,1987-07-12,Phoenix
+1121,John Doe,Male,1995-02-08,Los Angeles
+1122,Jane Smith,Male,1986-12-20,Houston
+1123,Emily Davis,Male,2000-10-28,Phoenix
+1124,Jane Smith,Male,1984-12-03,Houston
+1125,Michael Johnson,Male,1994-07-29,Los Angeles
+1126,John Doe,Male,1993-02-01,Chicago
+1127,Michael Johnson,Female,1986-01-31,Chicago
+1128,Michael Johnson,Female,1974-04-03,Los Angeles
+1129,Michael Johnson,Male,1972-10-09,Houston
+1130,John Doe,Male,1992-12-09,Phoenix
+1131,John Doe,Male,1975-02-25,Los Angeles
+1132,Chris Lee,Female,1988-08-13,New York
+1133,Jane Smith,Male,1982-07-23,Houston
+1134,Jane Smith,Female,1993-08-10,Chicago
+1135,Chris Lee,Female,1993-01-30,Los Angeles
+1136,Chris Lee,Female,1987-08-27,Chicago
+1137,Michael Johnson,Female,1976-06-03,Houston
+1138,Chris Lee,Female,1970-03-17,Chicago
+1139,Emily Davis,Male,1996-02-22,Los Angeles
+1140,Jane Smith,Male,1986-02-03,Houston
+1141,Chris Lee,Female,1988-07-30,New York
+1142,Emily Davis,Male,1983-06-24,Los Angeles
+1143,Emily Davis,Female,1992-02-25,Phoenix
+1144,Emily Davis,Female,1976-05-19,Los Angeles
+1145,Emily Davis,Male,1982-10-31,Houston
+1146,Michael Johnson,Male,1975-03-18,Los Angeles
+1147,Emily Davis,Male,1982-10-15,New York
+1148,Michael Johnson,Male,1989-07-23,New York
+1149,Michael Johnson,Male,1975-08-22,Phoenix
+1150,Emily Davis,Female,1970-05-21,Chicago
+1151,Jane Smith,Male,1974-11-25,Houston
+1152,Emily Davis,Male,1970-01-17,Houston
+1153,Emily Davis,Male,1971-04-10,Chicago
+1154,Emily Davis,Female,1982-03-30,New York
+1155,Jane Smith,Male,1975-01-02,New York
+1156,John Doe,Female,2000-09-20,Los Angeles
+1157,John Doe,Male,1993-11-07,Phoenix
+1158,Michael Johnson,Male,1986-04-23,Phoenix
+1159,Michael Johnson,Female,1970-03-31,Phoenix
+1160,Jane Smith,Male,1983-03-09,Los Angeles
+1161,Chris Lee,Male,1977-10-22,Phoenix
+1162,John Doe,Female,1977-10-14,Chicago
+1163,Michael Johnson,Male,1997-08-03,Los Angeles
+1164,John Doe,Female,1994-12-18,Chicago
+1165,Jane Smith,Female,1987-12-01,Los Angeles
+1166,Jane Smith,Female,1986-02-27,Phoenix
+1167,Chris Lee,Female,1972-08-27,Chicago
+1168,Chris Lee,Female,1972-12-30,Chicago
+1169,Jane Smith,Male,1986-10-08,Chicago
+1170,Michael Johnson,Male,1990-02-12,Los Angeles
+1171,John Doe,Male,1978-10-01,Houston
+1172,Emily Davis,Female,1973-11-05,Phoenix
+1173,Chris Lee,Female,1989-01-01,Chicago
+1174,Emily Davis,Female,1981-09-30,Houston
+1175,Michael Johnson,Female,1980-11-26,Phoenix
+1176,Chris Lee,Male,1985-03-18,Phoenix
+1177,Emily Davis,Male,1991-10-12,Chicago
+1178,Michael Johnson,Female,1982-11-27,Chicago
+1179,John Doe,Female,1978-06-20,Los Angeles
+1180,Michael Johnson,Male,1981-05-22,Houston
+1181,Chris Lee,Female,1987-04-10,Houston
+1182,Jane Smith,Female,1998-02-09,Chicago
+1183,John Doe,Female,1990-06-23,Phoenix
+1184,Emily Davis,Male,1993-03-17,Chicago
+1185,Chris Lee,Male,1983-07-05,Phoenix
+1186,Jane Smith,Female,1983-06-28,Phoenix
+1187,Michael Johnson,Male,1995-09-06,Chicago
+1188,Jane Smith,Female,1980-11-13,New York
+1189,Chris Lee,Female,1978-02-13,Houston
+1190,Chris Lee,Male,1981-10-29,Phoenix
+1191,Jane Smith,Female,1994-07-29,Phoenix
+1192,Michael Johnson,Female,1989-06-18,New York
+1193,Jane Smith,Male,1995-01-11,Los Angeles
+1194,Chris Lee,Female,1980-10-14,New York
+1195,Chris Lee,Female,1970-02-14,New York
+1196,Emily Davis,Female,1974-12-16,Phoenix
+1197,Emily Davis,Male,1982-07-03,Houston
+1198,John Doe,Female,1998-02-16,New York
+1199,Chris Lee,Male,1994-09-13,Los Angeles
+1200,Emily Davis,Female,1975-03-25,Chicago
+1201,Jane Smith,Female,1987-06-05,New York
+1202,Michael Johnson,Female,1977-01-25,New York
+1203,Jane Smith,Female,1971-11-23,Los Angeles
+1204,Michael Johnson,Male,1972-07-20,Houston
+1205,Emily Davis,Male,1991-08-29,New York
+1206,John Doe,Female,1987-06-23,New York
+1207,Jane Smith,Female,1979-04-30,Houston
+1208,Jane Smith,Female,1992-10-31,Los Angeles
+1209,Jane Smith,Female,1972-10-29,New York
+1210,Michael Johnson,Female,1973-08-04,Houston
+1211,Emily Davis,Female,1993-06-28,New York
+1212,Jane Smith,Female,1978-07-19,Chicago
+1213,Jane Smith,Female,1975-02-17,Phoenix
+1214,John Doe,Male,1994-12-08,Chicago
+1215,John Doe,Male,1997-07-28,New York
+1216,Emily Davis,Male,1988-07-26,Los Angeles
+1217,Emily Davis,Female,1980-04-06,Phoenix
+1218,Chris Lee,Female,1970-10-05,Chicago
+1219,John Doe,Female,1997-11-04,Houston
+1220,Chris Lee,Male,1975-02-03,Los Angeles
+1221,Michael Johnson,Female,2000-09-28,Chicago
+1222,Chris Lee,Male,1986-03-27,Houston
+1223,Jane Smith,Female,1988-08-06,New York
+1224,Chris Lee,Male,1982-11-27,Houston
+1225,Emily Davis,Male,1998-05-28,Chicago
+1226,Michael Johnson,Male,1982-10-20,Chicago
+1227,Jane Smith,Female,1973-03-16,New York
+1228,Chris Lee,Male,1993-10-08,Houston
+1229,Michael Johnson,Female,1999-05-06,Houston
+1230,Michael Johnson,Female,1995-09-01,New York
+1231,Jane Smith,Female,1999-03-30,Houston
+1232,Chris Lee,Female,1997-07-26,New York
+1233,Michael Johnson,Female,1984-07-14,Los Angeles
+1234,Michael Johnson,Male,1976-09-28,Chicago
+1235,John Doe,Female,1996-11-22,Los Angeles
+1236,Michael Johnson,Female,1970-10-15,Phoenix
+1237,John Doe,Female,1986-04-20,Phoenix
+1238,Chris Lee,Female,1981-09-22,Phoenix
+1239,Chris Lee,Female,1975-03-23,New York
+1240,Chris Lee,Male,1973-03-07,Houston
+1241,Emily Davis,Male,1970-05-10,Los Angeles
+1242,Chris Lee,Female,1987-05-09,Los Angeles
+1243,Michael Johnson,Male,1976-06-21,Los Angeles
+1244,Jane Smith,Male,1992-04-26,Los Angeles
+1245,John Doe,Female,1986-05-20,Phoenix
+1246,Emily Davis,Male,1970-05-24,Los Angeles
+1247,Chris Lee,Female,1992-06-21,Houston
+1248,Chris Lee,Male,1990-06-14,Phoenix
+1249,Jane Smith,Male,1970-09-02,Los Angeles
+1250,Jane Smith,Male,1972-07-15,New York
+1251,Emily Davis,Female,1978-09-14,Chicago
+1252,John Doe,Male,1975-12-17,Chicago
+1253,Chris Lee,Male,1983-09-12,Chicago
+1254,Emily Davis,Female,1972-06-05,Phoenix
+1255,Michael Johnson,Female,1993-05-12,Los Angeles
+1256,Michael Johnson,Male,1998-01-17,Phoenix
+1257,Emily Davis,Female,1979-04-22,Houston
+1258,Chris Lee,Male,1993-04-07,New York
+1259,Emily Davis,Male,1994-11-30,New York
+1260,Chris Lee,Female,1977-04-08,Chicago
+1261,Jane Smith,Female,1990-03-29,Chicago
+1262,Emily Davis,Female,1973-10-03,Chicago
+1263,Chris Lee,Male,1989-07-15,Los Angeles
+1264,Emily Davis,Female,1970-11-17,Houston
+1265,Emily Davis,Male,1982-09-29,Houston
+1266,Chris Lee,Female,1984-07-06,Houston
+1267,Chris Lee,Male,1988-07-06,Houston
+1268,John Doe,Female,1988-10-07,Chicago
+1269,Emily Davis,Male,1985-01-27,New York
+1270,Michael Johnson,Female,1995-07-12,Chicago
+1271,Emily Davis,Male,1999-06-28,Houston
+1272,Emily Davis,Female,1987-12-11,Chicago
+1273,Chris Lee,Female,1981-01-25,Houston
+1274,Emily Davis,Male,1994-09-01,Phoenix
+1275,Emily Davis,Female,1990-07-13,New York
+1276,Michael Johnson,Male,1988-03-03,Phoenix
+1277,Chris Lee,Male,1990-02-27,Los Angeles
+1278,Emily Davis,Female,1970-01-12,Chicago
+1279,Jane Smith,Male,1970-07-14,Los Angeles
+1280,John Doe,Female,1976-12-12,Chicago
+1281,Michael Johnson,Female,1977-10-13,Phoenix
+1282,Emily Davis,Male,1976-02-08,Houston
+1283,Jane Smith,Female,1978-03-29,Houston
+1284,Emily Davis,Male,1991-11-11,Chicago
+1285,Emily Davis,Male,1975-09-09,Houston
+1286,Chris Lee,Female,1991-06-25,Phoenix
+1287,Chris Lee,Female,1980-08-03,Houston
+1288,Chris Lee,Male,1983-05-06,Phoenix
+1289,Jane Smith,Male,1993-08-23,Los Angeles
+1290,Emily Davis,Female,1970-10-25,Phoenix
+1291,John Doe,Female,1986-01-13,New York
+1292,Michael Johnson,Female,1994-09-28,New York
+1293,Chris Lee,Female,1972-10-12,New York
+1294,Chris Lee,Male,1973-10-16,Chicago
+1295,Emily Davis,Female,1996-04-03,Chicago
+1296,Emily Davis,Male,1993-12-11,Chicago
+1297,Jane Smith,Male,1976-06-08,Phoenix
+1298,Jane Smith,Female,1973-06-23,Chicago
+1299,Chris Lee,Male,1973-06-14,Los Angeles
+1300,Emily Davis,Female,1991-02-01,New York
+1301,John Doe,Male,1992-12-07,Phoenix
+1302,Michael Johnson,Female,1982-06-30,New York
+1303,Emily Davis,Male,1988-11-19,Chicago
+1304,Emily Davis,Male,1999-01-11,Phoenix
+1305,Jane Smith,Female,1985-07-13,Houston
+1306,Michael Johnson,Female,1998-06-24,Los Angeles
+1307,Chris Lee,Male,1985-04-25,Chicago
+1308,Emily Davis,Male,1986-11-08,Chicago
+1309,Chris Lee,Female,1985-03-06,Los Angeles
+1310,Emily Davis,Male,1989-10-28,Los Angeles
+1311,Chris Lee,Female,1982-10-28,Houston
+1312,Michael Johnson,Male,1975-02-25,Chicago
+1313,Jane Smith,Female,1993-11-09,Chicago
+1314,Michael Johnson,Male,1997-08-06,New York
+1315,John Doe,Female,1999-06-02,Phoenix
+1316,Jane Smith,Female,1980-06-06,Phoenix
+1317,Michael Johnson,Male,1985-11-25,New York
+1318,John Doe,Female,1983-05-16,Phoenix
+1319,Emily Davis,Male,1989-09-24,Los Angeles
+1320,Emily Davis,Female,1981-05-18,Phoenix
+1321,Chris Lee,Female,1982-10-18,Phoenix
+1322,Jane Smith,Female,1973-11-10,New York
+1323,Emily Davis,Male,1997-01-25,Houston
+1324,Jane Smith,Female,1984-03-25,Phoenix
+1325,Emily Davis,Male,1990-05-28,Phoenix
+1326,Chris Lee,Female,1993-11-14,Houston
+1327,Michael Johnson,Male,1999-09-18,New York
+1328,Chris Lee,Male,1975-12-13,Houston
+1329,John Doe,Male,1970-10-07,New York
+1330,Emily Davis,Female,2000-07-18,Los Angeles
+1331,John Doe,Male,1980-11-21,New York
+1332,John Doe,Female,1977-04-23,Los Angeles
+1333,Jane Smith,Male,2000-05-08,Los Angeles
+1334,Emily Davis,Male,1991-06-05,New York
+1335,John Doe,Male,1997-03-23,Chicago
+1336,Michael Johnson,Male,1980-11-25,New York
+1337,John Doe,Female,1983-01-22,Phoenix
+1338,Michael Johnson,Male,1984-05-14,Phoenix
+1339,Jane Smith,Male,1998-11-23,Chicago
+1340,John Doe,Female,1982-02-14,Los Angeles
+1341,Chris Lee,Male,1986-10-19,Chicago
+1342,Jane Smith,Male,1985-04-05,Phoenix
+1343,Michael Johnson,Male,1981-04-24,Chicago
+1344,Jane Smith,Male,1997-02-08,New York
+1345,John Doe,Female,1989-09-07,Chicago
+1346,Emily Davis,Female,1999-10-14,Los Angeles
+1347,Emily Davis,Male,2000-05-10,New York
+1348,Michael Johnson,Female,1982-06-02,Houston
+1349,Michael Johnson,Female,1977-08-08,Phoenix
+1350,Emily Davis,Male,1995-06-30,Phoenix
+1351,Michael Johnson,Female,2000-08-11,Chicago
+1352,Jane Smith,Male,1991-01-28,New York
+1353,Chris Lee,Female,1992-12-17,Houston
+1354,Chris Lee,Female,1971-10-25,New York
+1355,Jane Smith,Female,1993-09-28,Phoenix
+1356,Chris Lee,Male,1992-01-10,New York
+1357,John Doe,Female,1981-07-20,Houston
+1358,Jane Smith,Male,1996-04-29,Chicago
+1359,Michael Johnson,Male,1983-11-09,Los Angeles
+1360,Jane Smith,Female,1999-11-05,New York
+1361,Emily Davis,Male,1986-01-31,Los Angeles
+1362,Michael Johnson,Female,1985-04-13,Phoenix
+1363,Emily Davis,Male,1975-07-08,Chicago
+1364,Michael Johnson,Male,1980-05-17,Chicago
+1365,Chris Lee,Female,1999-02-13,New York
+1366,Jane Smith,Female,1994-12-04,Chicago
+1367,John Doe,Female,1989-07-28,New York
+1368,Michael Johnson,Female,1991-04-07,New York
+1369,Michael Johnson,Male,1976-06-22,Los Angeles
+1370,Emily Davis,Male,1979-12-09,Chicago
+1371,Chris Lee,Male,1986-03-17,New York
+1372,Emily Davis,Female,1985-07-16,Los Angeles
+1373,Emily Davis,Male,1994-04-17,Houston
+1374,Chris Lee,Female,1988-03-05,Los Angeles
+1375,John Doe,Male,1982-09-26,Los Angeles
+1376,Emily Davis,Female,1971-09-02,New York
+1377,Emily Davis,Male,1991-09-28,Phoenix
+1378,Michael Johnson,Male,1998-05-02,Phoenix
+1379,Chris Lee,Female,1980-08-02,Phoenix
+1380,Jane Smith,Male,1971-01-07,Los Angeles
+1381,John Doe,Female,1989-02-28,New York
+1382,John Doe,Male,1971-09-08,Chicago
+1383,Chris Lee,Male,1988-12-03,Los Angeles
+1384,Michael Johnson,Female,1986-06-16,Los Angeles
+1385,Michael Johnson,Female,1976-03-03,New York
+1386,Chris Lee,Male,1983-07-14,Houston
+1387,Michael Johnson,Male,1972-05-14,Los Angeles
+1388,John Doe,Male,1973-06-22,Houston
+1389,John Doe,Male,1990-05-30,Houston
+1390,Jane Smith,Male,1994-07-30,Phoenix
+1391,Chris Lee,Male,1982-07-08,New York
+1392,Emily Davis,Female,1984-04-26,Houston
+1393,Emily Davis,Female,1976-02-16,New York
+1394,Jane Smith,Female,1981-02-06,Phoenix
+1395,Jane Smith,Male,1972-07-24,New York
+1396,Michael Johnson,Male,1987-07-05,Los Angeles
+1397,Jane Smith,Male,1991-08-10,Houston
+1398,Jane Smith,Female,1998-10-31,New York
+1399,Emily Davis,Female,1970-11-22,Chicago
+1400,Michael Johnson,Male,1996-08-18,New York
+1401,Jane Smith,Male,1991-04-15,Houston
+1402,Jane Smith,Female,1980-07-28,Phoenix
+1403,Michael Johnson,Female,1975-06-09,Phoenix
+1404,Chris Lee,Female,1983-07-04,Houston
+1405,Michael Johnson,Male,1982-08-09,Los Angeles
+1406,Emily Davis,Male,1977-08-10,Los Angeles
+1407,Chris Lee,Male,1995-11-28,Phoenix
+1408,John Doe,Female,1994-03-08,Phoenix
+1409,Michael Johnson,Female,1991-03-26,Houston
+1410,Emily Davis,Male,1981-03-02,Los Angeles
+1411,Chris Lee,Male,1973-09-29,Phoenix
+1412,Michael Johnson,Female,1981-01-25,Los Angeles
+1413,Jane Smith,Male,1977-01-19,Phoenix
+1414,Michael Johnson,Female,1988-06-29,New York
+1415,John Doe,Female,1974-05-01,Chicago
+1416,Michael Johnson,Male,1975-06-10,New York
+1417,Chris Lee,Female,1976-02-19,Phoenix
+1418,Chris Lee,Male,1980-11-10,Chicago
+1419,Michael Johnson,Female,1998-03-12,Chicago
+1420,Chris Lee,Female,1990-10-27,Phoenix
+1421,Jane Smith,Male,1992-10-12,Phoenix
+1422,Michael Johnson,Female,1986-05-05,Los Angeles
+1423,Jane Smith,Male,1994-10-05,Phoenix
+1424,Jane Smith,Male,1990-07-08,Houston
+1425,Emily Davis,Female,1981-03-27,Phoenix
+1426,Michael Johnson,Male,1975-09-08,Houston
+1427,Chris Lee,Male,1984-04-28,Phoenix
+1428,Jane Smith,Male,1978-03-14,Los Angeles
+1429,Emily Davis,Male,1980-04-02,Houston
+1430,Michael Johnson,Male,1999-12-23,New York
+1431,Michael Johnson,Male,1985-04-26,Houston
+1432,John Doe,Female,1990-08-15,Los Angeles
+1433,John Doe,Male,1990-03-08,Houston
+1434,Jane Smith,Female,1974-07-03,Phoenix
+1435,John Doe,Female,1978-08-11,Phoenix
+1436,Jane Smith,Male,1970-08-31,Los Angeles
+1437,Chris Lee,Female,1981-03-09,Chicago
+1438,Jane Smith,Female,1991-10-12,Phoenix
+1439,John Doe,Male,1989-11-26,New York
+1440,Chris Lee,Male,1989-07-10,Los Angeles
+1441,John Doe,Male,1988-09-11,Houston
+1442,Jane Smith,Female,1992-11-23,Houston
+1443,Emily Davis,Female,1994-03-20,New York
+1444,Michael Johnson,Male,1987-05-03,Phoenix
+1445,John Doe,Male,1979-08-14,Los Angeles
+1446,Jane Smith,Female,1974-02-08,New York
+1447,Chris Lee,Female,1998-03-06,Phoenix
+1448,John Doe,Female,1975-11-29,Los Angeles
+1449,John Doe,Female,1997-10-30,Houston
+1450,Michael Johnson,Male,1984-02-19,Los Angeles
+1451,Jane Smith,Female,1998-08-12,Chicago
+1452,Emily Davis,Female,1981-01-22,Los Angeles
+1453,Chris Lee,Female,1975-07-29,Chicago
+1454,Jane Smith,Female,1991-11-04,Los Angeles
+1455,Chris Lee,Male,1972-05-07,Chicago
+1456,John Doe,Male,1980-06-20,Houston
+1457,Michael Johnson,Female,1988-07-15,Phoenix
+1458,Michael Johnson,Female,1995-04-21,Chicago
+1459,Emily Davis,Male,1970-10-26,Chicago
+1460,Michael Johnson,Male,1989-11-01,Houston
+1461,John Doe,Female,1972-07-12,Chicago
+1462,Emily Davis,Female,1981-08-03,New York
+1463,Jane Smith,Male,1981-10-16,Houston
+1464,Michael Johnson,Male,1977-08-31,New York
+1465,Emily Davis,Male,1988-01-05,Houston
+1466,John Doe,Male,1983-05-08,Chicago
+1467,Chris Lee,Male,1984-08-01,New York
+1468,Chris Lee,Male,1988-01-09,Chicago
+1469,John Doe,Female,1974-12-08,Houston
+1470,John Doe,Male,1999-11-10,Chicago
+1471,Chris Lee,Male,2000-03-29,New York
+1472,Emily Davis,Male,1977-04-11,New York
+1473,Chris Lee,Male,1979-03-01,Chicago
+1474,John Doe,Female,1996-06-16,Los Angeles
+1475,Michael Johnson,Female,1978-01-28,Houston
+1476,Jane Smith,Male,1972-07-30,Houston
+1477,Michael Johnson,Female,1975-03-23,Chicago
+1478,Michael Johnson,Female,1983-03-31,Los Angeles
+1479,John Doe,Female,1992-03-11,New York
+1480,Chris Lee,Female,1973-05-28,Phoenix
+1481,Emily Davis,Female,1985-08-06,Phoenix
+1482,Michael Johnson,Female,1974-01-06,Chicago
+1483,Chris Lee,Male,1980-11-01,Los Angeles
+1484,Emily Davis,Male,1975-05-21,Los Angeles
+1485,Michael Johnson,Male,1971-01-11,Houston
+1486,Emily Davis,Male,1970-09-20,New York
+1487,Chris Lee,Male,1981-12-11,Los Angeles
+1488,Jane Smith,Female,1987-10-21,Phoenix
+1489,Chris Lee,Male,1997-10-02,New York
+1490,John Doe,Male,1991-06-13,New York
+1491,Emily Davis,Female,1975-03-09,Chicago
+1492,Jane Smith,Female,1992-03-12,Los Angeles
+1493,Emily Davis,Male,1974-07-11,Chicago
+1494,Emily Davis,Female,1985-03-03,Los Angeles
+1495,Michael Johnson,Female,1980-08-28,Houston
+1496,John Doe,Female,1971-08-23,Chicago
+1497,Emily Davis,Female,1983-03-09,Chicago
+1498,Chris Lee,Male,1975-03-28,Phoenix
+1499,Chris Lee,Female,1995-12-20,Chicago
+1500,Michael Johnson,Male,1994-01-27,Los Angeles
