@@ -1,4 +1,9 @@
 # Banking Analysis Project
+## My Awesome Data Dashboard
+
+Check out my live NavyPro dashboard here.
+
+https://www.novypro.com/create_project/-banking-analysis
 
 #### Overview
 The Banking Analysis project aims to assess various aspects of a bank’s performance, focusing on liquidity, profitability, and credit risk. By analyzing key performance indicators (KPIs) and conducting customer segmentation using RFM analysis, we gain valuable insights into the bank’s operations.
