@@ -5,6 +5,7 @@ Check out my live NavyPro dashboard here.
 <iframe title="final" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=fc21fc03-03ed-460d-98ac-3ffec7a57ed6&autoAuth=true&ctid=ba72b5b5-281c-4984-b8f0-7dd8cca3385e" frameborder="0" allowFullScreen="true"></iframe>
 s
 
+https://app.powerbi.com/reportEmbed?reportId=fc21fc03-03ed-460d-98ac-3ffec7a57ed6&autoAuth=true&ctid=ba72b5b5-281c-4984-b8f0-7dd8cca3385e
 #### Overview
 The Banking Analysis project aims to assess various aspects of a bank’s performance, focusing on liquidity, profitability, and credit risk. By analyzing key performance indicators (KPIs) and conducting customer segmentation using RFM analysis, we gain valuable insights into the bank’s operations.
 
