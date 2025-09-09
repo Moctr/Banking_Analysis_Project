@@ -5,20 +5,20 @@ This project explores **liquidity**, **profitability**, and **credit risk**, whi
 
 ---
 
-##  Contents
-- [Overview](#-overview)
-- [Objectives](#-objectives)
-- [Key Findings](#-key-findings)
-- [Recommendations](#-recommendations)
-- [Tools & Techniques](#-tools--techniques)
-- [Dashboards](#-dashboards)
-- [Project Structure](#-project-structure)
-- [Resources](#-resources)
-- [Author](#-author)
+## 📌 Contents
+- [Overview](#overview)
+- [Objectives](#objectives)
+- [Key Findings](#key-findings)
+- [Recommendations](#recommendations)
+- [Tools & Techniques](#tools--techniques)
+- [Dashboards](#dashboards)
+- [Project Structure](#project-structure)
+- [Resources](#resources)
+- [Author](#author)
 
 ---
 
-##  Overview
+## Overview
 Banks operate in a delicate balance between **growth and stability**.  
 This project evaluates the bank’s performance by examining its **funding, revenue, risk profile, and customer base**.  
 
@@ -26,7 +26,7 @@ The goal is to transform raw banking data into **actionable insights** that supp
 
 ---
 
-##  Objectives
+## Objectives
 1. **Liquidity Analysis** → Assess ability to meet short-term obligations.  
 2. **Profitability Analysis** → Measure net income, ROA, ROE, and revenue streams.  
 3. **Credit Risk Evaluation** → Identify exposure to defaults and loan risks.  
@@ -34,14 +34,14 @@ The goal is to transform raw banking data into **actionable insights** that supp
 
 ---
 
-##  Key Findings
--  **Liquidity Weaknesses** – Heavy dependence on deposits exposes the bank to cash shortages.  
--  **Risky Lending** – Issued loans surpass deposits, amplifying credit risks.  
--  **Revenue Reliability Issues** – Some reported income is backed by unstable liquidity.  
+## Key Findings
+- 🔴 **Liquidity Weaknesses** – Heavy dependence on deposits exposes the bank to cash shortages.  
+- 🟠 **Risky Lending** – Issued loans surpass deposits, amplifying credit risks.  
+- 🟡 **Revenue Reliability Issues** – Some reported income is backed by unstable liquidity.  
 
 ---
 
-##  Recommendations
+## Recommendations
 ✔ Maintain stronger **reserves** and diversify funding sources.  
 ✔ Implement **robust credit checks** and provisioning for defaults.  
 ✔ Report **transparent financials** to avoid misleading performance metrics.  
@@ -49,22 +49,24 @@ The goal is to transform raw banking data into **actionable insights** that supp
 
 ---
 
-##  Tools & Techniques
+## Tools & Techniques
 - **Power BI** → Interactive dashboards  
 - **SQL / Excel** → Data preparation and aggregation  
 - **RFM Analysis** → Customer segmentation model  
 
 ---
 
-##  Dashboards
+## Dashboards
 
-###  General Overview
+### 🔹 General Overview
 ![General Dashboard](https://github.com/Moctr/Banking_Analysis_Project/blob/main/General.GIF)
 
-###  Liquidity & Profitability
+### 🔹 Liquidity & Profitability
 ![Liquidity Dashboard](https://github.com/Moctr/Banking_Analysis_Project/blob/main/liquidity.GIF)
 
-###  Credit Risk
+### 🔹 Credit Risk
 ![Credit Risk Dashboard](https://github.com/Moctr/Banking_Analysis_Project/blob/main/credit_risk.GIF)
 
+---
 
+## Project Structure
