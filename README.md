@@ -1,67 +1,70 @@
-# 🏦 Banking Analysis Dashboard
+# 🏦 Banking Analysis Project
 
-## 📌 Overview
-The **Banking Analysis Project** provides a comprehensive evaluation of a bank’s financial performance, focusing on **liquidity**, **profitability**, and **credit risk**.  
-By leveraging **Power BI** and applying **RFM (Recency, Frequency, Monetary) analysis** for customer segmentation, this project delivers actionable insights that enhance risk management, operational efficiency, and customer targeting strategies.
-
----
-
-## 🎯 Objectives
-- **Liquidity Measurement**: Assess the bank’s ability to meet short-term financial obligations.  
-- **Profitability Assessment**: Evaluate metrics like Net Income, Return on Assets (ROA), and Return on Equity (ROE).  
-- **Credit Risk Evaluation**: Analyze loan portfolios, default rates, and provisioning for potential losses.  
-- **RFM Analysis for Customer Segmentation**: Identify high-value customers and tailor marketing/retention strategies.
+A data-driven assessment of a bank’s financial health using **Power BI dashboards** and **RFM analysis**.  
+This project explores **liquidity**, **profitability**, and **credit risk**, while also identifying high-value customers through **segmentation techniques**.
 
 ---
 
-## 📊 Key Findings
-- **Liquidity Concerns**: Heavy reliance on customer deposits to fund loans, creating vulnerability to sudden withdrawals.  
-- **Credit Risk Exposure**: Lending volume exceeds deposits, heightening the risk of default losses.  
-- **Revenue Authenticity Issues**: Reported revenue may be inflated due to insufficient liquidity, potentially leading to misleading financial statements.
+##  Contents
+- [Overview](#-overview)
+- [Objectives](#-objectives)
+- [Key Findings](#-key-findings)
+- [Recommendations](#-recommendations)
+- [Tools & Techniques](#-tools--techniques)
+- [Dashboards](#-dashboards)
+- [Project Structure](#-project-structure)
+- [Resources](#-resources)
+- [Author](#-author)
 
 ---
 
-## ✅ Recommendations
-- **Liquidity Management**  
-  - Diversify funding sources.  
-  - Maintain adequate reserves.  
-  - Monitor customer withdrawal trends.  
+##  Overview
+Banks operate in a delicate balance between **growth and stability**.  
+This project evaluates the bank’s performance by examining its **funding, revenue, risk profile, and customer base**.  
 
-- **Risk Mitigation**  
-  - Strengthen credit risk management frameworks.  
-  - Implement stricter borrower assessments.  
-  - Provision adequately for potential defaults.  
-
-- **Transparency**  
-  - Communicate financial health clearly with stakeholders.  
-  - Avoid artificial revenue inflation practices.  
+The goal is to transform raw banking data into **actionable insights** that support informed decision-making.
 
 ---
 
-## 🛠️ Tech Stack
-- **Power BI** – Data visualization & dashboarding  
-- **Excel / SQL** – Data preprocessing and queries  
-- **RFM Analysis** – Customer segmentation methodology  
+##  Objectives
+1. **Liquidity Analysis** → Assess ability to meet short-term obligations.  
+2. **Profitability Analysis** → Measure net income, ROA, ROE, and revenue streams.  
+3. **Credit Risk Evaluation** → Identify exposure to defaults and loan risks.  
+4. **RFM Segmentation** → Classify customers based on **Recency, Frequency, and Monetary value**.  
 
 ---
 
-## 📷 Dashboard Preview
-
-### 🔹 Banking Overview
-<p align="center">
-  <img src="https://github.com/Moctr/Banking_Analysis_Project/blob/main/General.GIF" alt="Banking Dashboard Overview" width="800"/>
-</p>
-
-### 🔹 Liquidity & Profitability
-<p align="center">
-  <img src="https://github.com/Moctr/Banking_Analysis_Project/blob/main/liquidity.GIF" alt="Liquidity & Profitability Dashboard" width="800"/>
-</p>
-
-### 🔹 Credit Risk Analysis
-<p align="center">
-  <img src="https://github.com/Moctr/Banking_Analysis_Project/blob/main/credit_risk.GIF" alt="Credit Risk Dashboard" width="800"/>
-</p>
+##  Key Findings
+-  **Liquidity Weaknesses** – Heavy dependence on deposits exposes the bank to cash shortages.  
+-  **Risky Lending** – Issued loans surpass deposits, amplifying credit risks.  
+-  **Revenue Reliability Issues** – Some reported income is backed by unstable liquidity.  
 
 ---
 
-## 📂 Project Structure
+##  Recommendations
+✔ Maintain stronger **reserves** and diversify funding sources.  
+✔ Implement **robust credit checks** and provisioning for defaults.  
+✔ Report **transparent financials** to avoid misleading performance metrics.  
+✔ Leverage **RFM segmentation** for targeted customer engagement.  
+
+---
+
+##  Tools & Techniques
+- **Power BI** → Interactive dashboards  
+- **SQL / Excel** → Data preparation and aggregation  
+- **RFM Analysis** → Customer segmentation model  
+
+---
+
+##  Dashboards
+
+###  General Overview
+![General Dashboard](https://github.com/Moctr/Banking_Analysis_Project/blob/main/General.GIF)
+
+###  Liquidity & Profitability
+![Liquidity Dashboard](https://github.com/Moctr/Banking_Analysis_Project/blob/main/liquidity.GIF)
+
+###  Credit Risk
+![Credit Risk Dashboard](https://github.com/Moctr/Banking_Analysis_Project/blob/main/credit_risk.GIF)
+
+
