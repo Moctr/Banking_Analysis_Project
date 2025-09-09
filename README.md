@@ -1,12 +1,12 @@
-# 🏦 Banking Analysis Dashboard
+#  Banking Analysis Dashboard
 
-## 📌 Overview
+##  Overview
 The **Banking Analysis Project** provides a comprehensive evaluation of a bank’s financial performance, focusing on **liquidity**, **profitability**, and **credit risk**.  
 By leveraging **Power BI** and applying **RFM (Recency, Frequency, Monetary) analysis** for customer segmentation, this project delivers actionable insights that enhance risk management, operational efficiency, and customer targeting strategies.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - **Liquidity Measurement**: Assess the bank’s ability to meet short-term financial obligations.  
 - **Profitability Assessment**: Evaluate metrics like Net Income, Return on Assets (ROA), and Return on Equity (ROE).  
 - **Credit Risk Evaluation**: Analyze loan portfolios, default rates, and provisioning for potential losses.  
@@ -14,14 +14,14 @@ By leveraging **Power BI** and applying **RFM (Recency, Frequency, Monetary) ana
 
 ---
 
-## 📊 Key Findings
+##  Key Findings
 - **Liquidity Concerns**: Heavy reliance on customer deposits to fund loans, creating vulnerability to sudden withdrawals.  
 - **Credit Risk Exposure**: Lending volume exceeds deposits, heightening the risk of default losses.  
 - **Revenue Authenticity Issues**: Reported revenue may be inflated due to insufficient liquidity, potentially leading to misleading financial statements.
 
 ---
 
-## ✅ Recommendations
+##  Recommendations
 - **Liquidity Management**  
   - Diversify funding sources.  
   - Maintain adequate reserves.  
@@ -38,30 +38,30 @@ By leveraging **Power BI** and applying **RFM (Recency, Frequency, Monetary) ana
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Power BI** – Data visualization & dashboarding  
 - **Excel / SQL** – Data preprocessing and queries  
 - **RFM Analysis** – Customer segmentation methodology  
 
 ---
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 
-### 🔹 Banking Overview
+###  Banking Overview
 <p align="center">
-  <img src="images/dashboard_overview.png" alt="Banking Dashboard Overview" width="800"/>
+  <img src="C:/Users/EXO-02/Documents/General.GIF" alt="Banking Dashboard Overview" width="800"/>
 </p>
 
-### 🔹 Liquidity & Profitability
+###  Liquidity & Profitability
 <p align="center">
-  <img src="images/dashboard_liquidity.png" alt="Liquidity & Profitability Dashboard" width="800"/>
+  <img src="C:/Users/EXO-02/Documents/liquidity.GIF" alt="Liquidity & Profitability Dashboard" width="800"/>
 </p>
 
-### 🔹 Credit Risk Analysis
+###  Credit Risk Analysis
 <p align="center">
-  <img src="images/dashboard_creditrisk.png" alt="Credit Risk Dashboard" width="800"/>
+  <img src="C:/Users/EXO-02/Documents/credit_risk.GIF" alt="Credit Risk Dashboard" width="800"/>
 </p>
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
