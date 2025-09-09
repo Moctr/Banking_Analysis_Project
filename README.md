@@ -49,7 +49,7 @@ By leveraging **Power BI** and applying **RFM (Recency, Frequency, Monetary) ana
 
 ###  Banking Overview
 <p align="center">
-  <img src="C:/Users/EXO-02/Documents/General.GIF" alt="Banking Dashboard Overview" width="800"/>
+  <img src="[C:/Users/EXO-02/Documents/General.GIF](https://github.com/Moctr/Banking_Analysis_Project/blob/main/quieres.sql)" alt="Banking Dashboard Overview" width="800"/>
 </p>
 
 ###  Liquidity & Profitability
